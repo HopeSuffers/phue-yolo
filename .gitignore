@@ -169,3 +169,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# IntelliJ IDEA project folder
+/.idea/
+
+# YOLOv8 model file
+yolov8n.pt
